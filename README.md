@@ -20,6 +20,7 @@ In this project we will analyze different types of stock and their behavior in 2
 *In a summary statement, address the following questions.*
 
 *1.What are the advantages or disadvantages of refactoring code?*
+
 *2.How do these pros and cons apply to refactoring the original VBA script?*
 
 The advantages of refactoring the code is that the code is simpler to read and also for the future. It has the necessary comments to easly read. Also, is using less memory as it takes fewer steps. The excecution time is faster compared to the previous code. Therefore, it is always a good idea to revise the code and find ways to shorten it and writting it in a clear understandable way.
